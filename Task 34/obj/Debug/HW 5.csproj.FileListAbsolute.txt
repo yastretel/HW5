@@ -1,0 +1,7 @@
+D:\Work GB\C#\HW 5\HW 5\bin\Debug\HW_5.exe
+D:\Work GB\C#\HW 5\HW 5\bin\Debug\HW_5.pdb
+D:\Work GB\C#\HW 5\HW 5\obj\Debug\HW 5.csproj.AssemblyReference.cache
+D:\Work GB\C#\HW 5\HW 5\obj\Debug\HW 5.csproj.SuggestedBindingRedirects.cache
+D:\Work GB\C#\HW 5\HW 5\obj\Debug\HW 5.csproj.CoreCompileInputs.cache
+D:\Work GB\C#\HW 5\HW 5\obj\Debug\HW_5.exe
+D:\Work GB\C#\HW 5\HW 5\obj\Debug\HW_5.pdb
